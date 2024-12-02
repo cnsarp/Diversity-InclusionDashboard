@@ -9,4 +9,7 @@ Dataset includes :
 - Leavers and new hires in FY21.
 
 
+I've created the dashboards on Power BI: 
+![View png](./diversity&inclusion-1.png)
+![View png](./diversity&inclusion-2.png)
   
