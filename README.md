@@ -8,7 +8,7 @@ Dataset includes :
 - Last hire dates of employees
 - Leavers and new hires in FY21.
 
- [Dataset](./03 Diversity-Inclusion-Dataset.xlsx)
+ [Dataset](./03%20Diversity-Inclusion-Dataset.xlsx)
 
 
 I've created the dashboards on Power BI: 
