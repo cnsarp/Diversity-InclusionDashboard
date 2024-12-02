@@ -8,6 +8,8 @@ Dataset includes :
 - Last hire dates of employees
 - Leavers and new hires in FY21.
 
+ [Download My Excel File](03 Diversity-Inclusion-Dataset.xlsx)
+
 
 I've created the dashboards on Power BI: 
 ![View png](./diversity&inclusion-1.png)
